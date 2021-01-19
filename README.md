@@ -5,7 +5,7 @@ The algorithm allows the conversion of PLEX Elite 9000 exported data to image fi
 3. Export patient ‘.xml’ patient files as ‘XMLExportFiles’ folder, unzip and insert into the created folder (‘SamplePatient_01’).<br/>
 4. Export all patient angiography ‘.bmp’ image sets directly into the created folder (‘SamplePatient_01’)
 5. Repeat steps (1) to (5) as needed (see example below).<br/> 
-6. Create and name an empty folder called 'raw' into the current directory, and insert all folders containing all files (e.g. ‘SamplePatient_01’, ‘SamplePatient_02’, etc.) into the 'raw' folder (sample dataset : https://www.kaggle.com/cnzakimuena/retinal-oct-octa-data).<br/>
+6. Create and name an empty folder called 'raw' into the current directory, and insert all folders containing all files (e.g. ‘SamplePatient_01’, ‘SamplePatient_02’, etc.) into the 'raw' folder (sample dataset: https://www.kaggle.com/cnzakimuena/retinal-oct-octa-data).<br/>
 7. Proceed to run the command ‘call_convertPLEX’.<br/>
 
 ![example image](instructions.png)
